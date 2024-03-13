@@ -1,3 +1,3 @@
-### 🧙‍♂️ The Jungle Wizard Warns you of Fever.
+### 🧙‍♂️ The Jungle Wizard
 
-**Cooking Code & DNB**
+> This is where all my repositories live. Feel free to browse the archive.
